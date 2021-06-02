@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tokyo Olympic 2021`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `dai`,
+      summary: `who lives and works in tokyo building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://tokyo.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `daisuke`,
     },
   },
   plugins: [
